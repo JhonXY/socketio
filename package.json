@@ -1,0 +1,15 @@
+{
+  "name": "socket-server",
+  "version": "0.1.0",
+  "description": "websocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JhonXy <1076849402@qq.com> (https://github.com/JhonXY)",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "koa-socket": "^4.4.0"
+  }
+}
